@@ -1,4 +1,5 @@
 # CodexCoffee
 
-A Blogging project made just for those who want to look through the lense of my life as the new techie on the scene. 
+A Blogging project made just for those who love to code, travel and try new things in life. 
 
+Stay Tuned! 
